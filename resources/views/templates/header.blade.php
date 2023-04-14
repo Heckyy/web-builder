@@ -56,5 +56,6 @@
                 </div>
             </div>
         </nav>
+        <div class="navbar-line"></div>
     </section>
     {{-- End Of  Navbar Section --}}

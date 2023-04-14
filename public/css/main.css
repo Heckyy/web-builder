@@ -1,0 +1,39 @@
+/* My Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500&display=swap");
+
+/* Navbar Section */
+.button-device {
+    background-color: transparent;
+    border: none;
+}
+.button-device:hover {
+    background-color: transparent;
+    border: none;
+}
+.button-device:focus {
+    box-shadow: none;
+}
+
+.button-primary {
+    background-color: #0c97fa;
+    border: none;
+    width: 105px;
+    height: 38px;
+    border-radius: 6px;
+    padding: 6px 6px 6px 6px;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+}
+
+.button-secondary {
+    background-color: transparent;
+    border: 1px solid #0c97fa;
+    width: 105px;
+    height: 38px;
+    border-radius: 6px;
+    padding: 6px 6px 6px 6px;
+    color: #0c97fa;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+}
+/* End Of Navbar Section */
